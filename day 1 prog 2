@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+ printf("\n my name is abhishek \n");
+ return(0);
+ }
