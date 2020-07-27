@@ -1,2 +1,2 @@
 import Datetime
-print(datetime.Datetime.now())
+print(Datetime.Datetime.now())
